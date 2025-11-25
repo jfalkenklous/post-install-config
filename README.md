@@ -97,7 +97,7 @@ Go back to the 'Admin Panel'. Select 'Manage'. Select 'SLA'. Select 'Add New SLA
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1106" height="719" alt="image" src="https://github.com/user-attachments/assets/69500929-ada2-46f1-8497-fdaadac76a53" />
 </p>
 <p>
 Navigate to the 'Help Topics' tab. Select 'Add New Help Topic'. Label as 'Business Critical Outage' and select 'Report a Problem' under Parent Type. Select 'Add Topic'. Continue to create additional Help Topics for Personal Computer Issues, Equipment Reset, Password Reset, and Other - use your best judgement to add the topics under the appropriate parent type. 
