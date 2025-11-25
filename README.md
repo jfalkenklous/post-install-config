@@ -33,10 +33,10 @@ Go to the Admin Panel of osTicket (http://localhost/osTicket/scp/login.php). Log
 <br />
 
 <p>
-<img width="1000" height="460" alt="image" src="https://github.com/user-attachments/assets/57c27387-4af9-4089-9b62-c9d7d5ce5daf" />
+<img width="1123" height="474" alt="image" src="https://github.com/user-attachments/assets/b4c7972e-2ca5-4747-b15f-d9a35f29f372" />
 </p>
 <p>
-Navigate to the Departments tab. Select Add New Department. Label it 'SysAdmins'. Scroll down and select 'Create Dept'.
+Navigate to the Departments tab. Select Add New Department. Label it 'SysAdmins'. Scroll down and select 'Create Dept'. Delete the'Maintenance' department by selecting the box next to it, then selecting 'More' and select 'Delete'.  
 </p>
 <br />
 
